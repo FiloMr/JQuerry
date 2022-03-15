@@ -1,12 +1,24 @@
-h2 {
-    font-family: Arial;
+#span{
+    display: none;
 }
-
+#span1{
+    display: none;
+}
+#span2{
+    display: none;
+}
+span{
+    font-size: 22px;
+}
 #container{
     width: 700px;
     margin: 0 auto;
 }
 
+#container2{
+    width: 700px;
+    margin: 0 auto;
+}
 #page{
     font-size: 150%;
     text-align: center;
@@ -14,17 +26,15 @@ h2 {
     border: 1px solid black;
     background-color: white;
 }
-
-ul{
-    margin: 20px;
-    list-style-image: url("../Graphic/img.png");
+#zew{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    background-color: #ccccff;
 }
-
-li {
-    padding: 5px;
-    margin-bottom: 2px;
-}
-
-img{
-    width: 300px;
+#wew{
+    width: 60%;
+    height: 100px;
+    background-color: blue;
+    margin: 30px auto;
 }
